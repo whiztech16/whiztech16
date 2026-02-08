@@ -2,21 +2,26 @@
 
 My name is Okpara Fortune Nkemakolam.
 
-I'm a Full Stack Web Developer and a 300-level Software Engineering student at FUTO. I am passionate about building scalable web applications and currently exploring cloud engineering.
+I'm a Full Stack Web Developer and Software Engineering student who is passionate about building scalable web applications and cloud engineering. When I'm not coding, you can find me watching movies, reading, or exploring the latest tech trends.
+
 
 ### About Me
 
 * 📍 **Location:** Nigeria
 * 🎓 **Education:** Federal University of Technology, Owerri (FUTO) - Software Engineering
-* 💼 **Experience:** Cowrywise Ambassador, Google Developer Student Club Member
+* 🤝 **Community:** Cowrywise Ambassador • Google Developer Student Club (GDSC)
 * 🚀 **Interests:** Web Development, Cloud Engineering, Artificial Intelligence
+* ### 🚀 Projects
 
-### Projects
+* 🎬 **MovieHub-info** — [Source Code](https://github.com/whiztech16/MovieHub-info) • [🔴 Live Demo](https://moviehubinfo.vercel.app/)
+  <br>_A movie search platform built with the TMDB API._
 
-* 🎬 **MovieHub-info:** A movie search platform built with the TMDB API.
-* 🦁 **Lion AI:** Worked on the frontend and backend integration.
-* 🍕 **Pizza Web App:** A food ordering app built with TypeScript & React.
-* ✝️ **GraceReader:** (In progress) A web library platform for Christian literature.
+* 💜 **Smile Foundation** — [Source Code](https://github.com/whiztech16/SMILE-FOUNDATION) • [🔴 Live Demo](https://smilefoundationv2.netlify.app/)
+  <br>_A fully responsive landing page for a foundation._
+
+* 🍕 **Pizza Web App** — [Source Code](PASTE_YOUR_REPO_LINK_HERE) • [🔴 Live Demo](PASTE_YOUR_LIVE_LINK_HERE)
+  <br>_A food ordering app built with TypeScript & React._
+
 
 ### Skills
 
