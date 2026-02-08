@@ -5,10 +5,10 @@ My name is Okpara Fortune Nkemakolam.
 I'm a Full Stack Web Developer and Software Engineering student who is passionate about building scalable web applications and cloud engineering. When I'm not coding, you can find me watching movies, reading, or exploring the latest tech trends.
 
 
-### About Me
+### ⚡ About Me
 
 * 📍 **Location:** Nigeria
-* 🎓 **Education:** Federal University of Technology, Owerri (FUTO) - Software Engineering
+* 🎓 **Education:** Bachelor of Technology in Software Engineering (In View)
 * 🤝 **Community:** Cowrywise Ambassador • Google Developer Student Club (GDSC)
 * 🚀 **Interests:** Web Development, Cloud Engineering, Artificial Intelligence
 * ### 🚀 Projects
