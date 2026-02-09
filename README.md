@@ -38,6 +38,6 @@ I'm a Full Stack Web Developer and Software Engineering student who is passionat
 <a href="YOUR_TWITTER_URL_HERE">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
-<a href="https://github.com/whiztech16/whiztech16/blob/main/Fortune_Resume.pdf">
+<a href="https://github.com/whiztech16/whiztech16/blob/main/Fortune updated sample resume.pdf">
   <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
 </a>
