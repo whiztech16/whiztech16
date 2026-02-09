@@ -20,6 +20,7 @@ I'm a Full Stack Web Developer and Software Engineering student who is passionat
   <br>_A fully responsive landing page for a foundation._
 
 * 🍕 **Pizza Web App** — [Source Code](PASTE_YOUR_REPO_LINK_HERE) • [🔴 Live Demo](PASTE_YOUR_LIVE_LINK_HERE)
+
   <br>_A food ordering app built with TypeScript & React._
 
 
@@ -31,4 +32,12 @@ I'm a Full Stack Web Developer and Software Engineering student who is passionat
 * **Tools:** Git, Vercel, Netlify
 
 ---
-[LinkedIn](YOUR_LINKEDIN_URL_HERE) • [Twitter](YOUR_TWITTER_URL_HERE)
+<a href="YOUR_LINKEDIN_URL_HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="YOUR_TWITTER_URL_HERE">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://github.com/whiztech16/whiztech16/blob/main/Fortune_Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+</a>
