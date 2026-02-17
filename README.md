@@ -1,4 +1,4 @@
-### Hello! 👋
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5818b816-ea6f-4529-938a-6de7ca905868" />### Hello! 👋
 
 My name is Okpara Fortune Nkemakolam.
 
@@ -19,7 +19,7 @@ I'm a Full Stack Web Developer and Software Engineering student who is passionat
 * 💜 **Smile Foundation** — [Source Code](https://github.com/whiztech16/SMILE-FOUNDATION) • [🔴 Live Demo](https://smilefoundationv2.netlify.app/)
   <br>_A fully responsive landing page for a foundation._
 
-* 🍕 **Pizza Web App** — [Source Code](PASTE_YOUR_REPO_LINK_HERE) • [🔴 Live Demo](PASTE_YOUR_LIVE_LINK_HERE)
+* 🍕 **Pizza Web App** — [Source Code](PASTE_YOUR_REPO_LINK_HERE) • [🔴 Live Demo](https://pizza-client-app-one.vercel.app/)
 
   <br>_A food ordering app built with TypeScript & React._
 
