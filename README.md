@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5818b816-ea6f-4529-938a-6de7ca905868" />### Hello! 👋
+ Hello! 👋
 
 My name is Okpara Fortune Nkemakolam.
 
