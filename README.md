@@ -32,7 +32,7 @@ I'm a Full Stack Web Developer and Software Engineering student who is passionat
 * **Tools:** Git, Vercel, Netlify
 
 ---
-<a href="YOUR_LINKEDIN_URL_HERE">
+<a href="https://www.linkedin.com/in/fortune-okpara-129742290/?isSelfProfile=true">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="YOUR_TWITTER_URL_HERE">
