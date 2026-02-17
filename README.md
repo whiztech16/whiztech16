@@ -19,7 +19,7 @@ I'm a Full Stack Web Developer and Software Engineering student who is passionat
 * 💜 **Smile Foundation** — [Source Code](https://github.com/whiztech16/SMILE-FOUNDATION) • [🔴 Live Demo](https://smilefoundationv2.netlify.app/)
   <br>_A fully responsive landing page for a foundation._
 
-* 🍕 **Pizza Web App** — [Source Code](PASTE_YOUR_REPO_LINK_HERE) • [🔴 Live Demo](https://pizza-client-app-one.vercel.app/)
+* 🍕 **Pizza Web App** — [Source Code](https://github.com/whiztech16/pizza-client-app.git) • [🔴 Live Demo](https://pizza-client-app-one.vercel.app/)
 
   <br>_A food ordering app built with TypeScript & React._
 
