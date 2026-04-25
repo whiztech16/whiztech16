@@ -35,7 +35,7 @@ I'm a Full Stack Web Developer and Software Engineering student who is passionat
 <a href="https://www.linkedin.com/in/fortune-okpara-129742290/?isSelfProfile=true">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="YOUR_TWITTER_URL_HERE">
+<a href="https://x.com/DevNft413108">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 <a href="https://github.com/whiztech16/whiztech16/blob/main/Fortuneokpara resume.pdf">
